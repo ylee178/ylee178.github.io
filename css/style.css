@@ -130,6 +130,9 @@ em {
 	margin-left: 20px;
 	max-width: 38px;
   }
+  .work-div {
+  	margin: 2% 0;
+  }
 }
 
 @media(min-width: 550px) {
