@@ -119,3 +119,25 @@ em {
 .footer-link:hover {
 	text-decoration: underline;
 }
+
+@media (min-width: 0px) {
+  .single-screen {
+    max-width: 56%;
+    display: block;
+    margin: 0 auto;
+  }
+  .med-screen {
+    display: block;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 750px) {
+  .single-screen {
+    max-width: 30%;
+  }
+  .med-screen {
+    max-width: 60%;
+  }
+}
