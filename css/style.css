@@ -154,7 +154,7 @@ em {
   .med-screen {
     max-width: 60%;
   }
-  .top-div .main{
+  .top-div.main{
 	margin-top: 80px;
   }
 }
