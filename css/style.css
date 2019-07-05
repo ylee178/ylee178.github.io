@@ -28,7 +28,6 @@
 	text-decoration: underline;
 }
 .work-div {
-	margin: 0 2%;
     border-radius: 6px;
 }
 .work-div img {
@@ -130,6 +129,15 @@ em {
 	padding: 6px;
 	margin-left: 20px;
 	max-width: 38px;
+  }
+}
+
+@media(min-width: 550px) {
+  .work-div {
+	margin: 0 2%;
+  }
+  .second-row {
+  	margin-top: 40px;
   }
 }
 
