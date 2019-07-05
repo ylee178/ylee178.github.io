@@ -122,6 +122,9 @@ em {
     margin: 0 auto;
   }
   .top-div {
+  	margin-top: 80px;
+  }
+  .top-div.main{
 	margin-top: 20px;
   }
   .logo {
@@ -151,7 +154,7 @@ em {
   .med-screen {
     max-width: 60%;
   }
-  .top-div {
+  .top-div .main{
 	margin-top: 80px;
   }
 }
