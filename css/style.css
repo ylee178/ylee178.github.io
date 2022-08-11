@@ -34,7 +34,9 @@
 	border-radius: 5px;
 }
 .work-div img.full-screen:hover {
-	opacity: 0.7;
+	box-shadow: 0 4px 12px #0000005c;
+	transition: all 0.3s ease;
+
 }
 .full-screen {
 	display: block;
